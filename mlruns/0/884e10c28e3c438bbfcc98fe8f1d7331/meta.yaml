@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/admin/Desktop/MLFlow/MLFlow-Docker/mlruns/0/884e10c28e3c438bbfcc98fe8f1d7331/artifacts
+end_time: 1680682616551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 884e10c28e3c438bbfcc98fe8f1d7331
+run_name: languid-whale-768
+run_uuid: 884e10c28e3c438bbfcc98fe8f1d7331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680682615520
+status: 4
+tags: []
+user_id: admin
